@@ -15,3 +15,7 @@ Time imagine has kind.
 Time imagine has park kind.
 
 Time is output including feel.
+
+TIME is all time included.
+
+TIME is all output including feel included.
