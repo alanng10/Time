@@ -14,9 +14,11 @@ Time imagine has kind.
 
 Time imagine has park kind.
 
-Time not include feel.
-
 TIME is all time included.
+
+time not include feel.
+
+Time not include feel.
 
 TIME not include feel.
 
