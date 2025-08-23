@@ -21,3 +21,5 @@ TIME is all time included.
 TIME not include feel.
 
 Inform can has time.
+
+Inform can has time in concept.
