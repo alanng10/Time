@@ -28,4 +28,4 @@ Inform can done time through exform.
 
 Inform can done time through exform time.
 
-Inform has time inf it done it.
+Inform has time inf it done time.
