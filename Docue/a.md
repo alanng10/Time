@@ -19,3 +19,5 @@ Time not include feel.
 TIME is all time included.
 
 TIME not include feel.
+
+Inform can has time.
