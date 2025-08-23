@@ -30,4 +30,8 @@ Inform can done time through exform time.
 
 Inform has time inf it done time.
 
-Time can be done by exform orn inform.
+time can be done by exform orn inform.
+
+Time can be done by exform orn inform. 
+
+TIME can be done by exform orn inform.
