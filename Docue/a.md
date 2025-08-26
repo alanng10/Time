@@ -39,3 +39,10 @@ time can be done by exform orn inform.
 Time can be done by exform orn inform.
 
 TIME can be done by exform orn inform.
+
+Time word has spell.
+The spell is:
+"T" for This Result.
+"i" for inter any.
+"m" for maide all.
+"e" for effect kind.
