@@ -46,3 +46,7 @@ The spell is:
 "i" for inter any.
 "m" for maide all.
 "e" for effect kind.
+
+TIME gain not include feel gain.
+
+TIME gain is not most gain.
