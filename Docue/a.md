@@ -40,13 +40,13 @@ Time can be done by exform orn inform.
 
 TIME can be done by exform orn inform.
 
-Time word has spell.
-The spell is:
-"T" for This Result.
-"i" for inter any.
-"m" for maide all.
-"e" for effect kind.
-
 TIME gain not include feel gain.
 
 TIME gain is not most gain.
+
+Time word has spell.
+The spell is:
+"T" for Thin Class.
+"i" for inter any.
+"m" for maide all.
+"e" for effect kind.
