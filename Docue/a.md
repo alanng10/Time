@@ -47,6 +47,6 @@ TIME gain is not most gain.
 Time word has spell.
 The spell is:
 "T" for Thin Class.
-"i" for inter any.
+"i" for inter comp.
 "m" for maide all.
 "e" for effect kind.
