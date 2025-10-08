@@ -70,11 +70,11 @@ Time imagine has park kind.
 
 TIME is all time included.
 
-time not include feel.
+time include feel.
 
-Time not include feel.
+Time include feel.
 
-TIME not include feel.
+TIME include feel.
 
 Inform can has time.
 
