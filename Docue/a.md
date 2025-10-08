@@ -60,6 +60,8 @@ Time is park output.
 
 Time is park output entity.
 
+Time gain is Real.
+
 Time time is most time.
 
 Time can be imagine.
@@ -93,8 +95,6 @@ time can be done by exform orn inform.
 Time can be done by exform orn inform.
 
 TIME can be done by exform orn inform.
-
-Time gain is Real.
 
 TIME gain include feel gain.
 
