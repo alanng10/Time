@@ -72,12 +72,6 @@ Time imagine has park kind.
 
 TIME is all time included.
 
-time include feel.
-
-Time include feel.
-
-TIME include feel.
-
 Inform can has time.
 
 Inform can has time in concept.
