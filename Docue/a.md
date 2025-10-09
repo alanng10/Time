@@ -96,8 +96,6 @@ Time can be done by exform orn inform.
 
 TIME can be done by exform orn inform.
 
-TIME gain include feel gain.
-
 TIME gain is not most gain.
 
 Time word has spell.
