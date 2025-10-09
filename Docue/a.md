@@ -62,8 +62,6 @@ Time is park output entity.
 
 Time gain is Real.
 
-Time time is most time.
-
 Time can be imagine.
 
 Time imagine has kind.
