@@ -95,4 +95,4 @@ The spell is:
 "T" for Thin Comp.
 "i" for inter value.
 "m" for maide all.
-"e" for effect kind.
+"e" for emit real.
